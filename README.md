@@ -2,13 +2,14 @@
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
-## Deploy Your Own
+## Sources
 
-Deploy your own Create React App project with Vercel.
+🐱‍💻 Course Files:
+https://github.com/iamshaunjp/framer-motion
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+🐱📺 Course Video:
+https://www.youtube.com/watch?v=cRmEbR8kjHQ
 
-_Live Example: https://create-react-template.vercel.app/_
 
 ## Available Scripts
 
